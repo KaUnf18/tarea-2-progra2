@@ -1,0 +1,7 @@
+C:\Users\rapai\Source\Repos\tarea 2 ejercicio 3\tarea 2 ejercicio 3\bin\Debug\tarea 2 ejercicio 3.exe.config
+C:\Users\rapai\Source\Repos\tarea 2 ejercicio 3\tarea 2 ejercicio 3\bin\Debug\tarea 2 ejercicio 3.exe
+C:\Users\rapai\Source\Repos\tarea 2 ejercicio 3\tarea 2 ejercicio 3\bin\Debug\tarea 2 ejercicio 3.pdb
+C:\Users\rapai\Source\Repos\tarea 2 ejercicio 3\tarea 2 ejercicio 3\obj\Debug\tarea 2 ejercicio 3.csproj.AssemblyReference.cache
+C:\Users\rapai\Source\Repos\tarea 2 ejercicio 3\tarea 2 ejercicio 3\obj\Debug\tarea 2 ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\rapai\Source\Repos\tarea 2 ejercicio 3\tarea 2 ejercicio 3\obj\Debug\tarea 2 ejercicio 3.exe
+C:\Users\rapai\Source\Repos\tarea 2 ejercicio 3\tarea 2 ejercicio 3\obj\Debug\tarea 2 ejercicio 3.pdb
